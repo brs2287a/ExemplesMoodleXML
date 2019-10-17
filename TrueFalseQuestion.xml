@@ -1,7 +1,11 @@
 <question type="truefalse">
  <answer fraction="100">
     <text>true</text>
+<<<<<<< HEAD
     <feedback><text>Correct?</text></feedback>
+=======
+    <feedback><text>Correct:</text></feedback>
+>>>>>>> c1ad26f85aab89c7245129d77b74879339d32a8f
  </answer>
  <answer fraction="0">
     <text>false</text>
